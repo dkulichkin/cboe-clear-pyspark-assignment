@@ -1,0 +1,6 @@
+pytest
+findspark
+pylint
+py4j
+pandas
+pyarrow

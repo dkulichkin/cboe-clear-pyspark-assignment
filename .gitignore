@@ -1,0 +1,8 @@
+.venv
+.idea
+dist
+src/libs/*
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
